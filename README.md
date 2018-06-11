@@ -14,7 +14,7 @@ The Main class shows the output from the simple sentence:
 
 ".The fat cat used on the mat." ==> 4 used
 
-I have also included a jar file to provide for simple execution.
+I have also included a jar file(https://www.dropbox.com/s/lzo5kx0u4ykbcus/Word%20Count.jar?dl=0) to provide for simple execution.
 
 It takes no arguments it just runs with the pre defined string.
 
